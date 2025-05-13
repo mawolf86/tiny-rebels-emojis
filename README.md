@@ -1,2 +1,2 @@
-# tiny-rebels-emojis
-# Slack Emoji Archiv 🎉
+# Riny Rebels Emojis 🎉
+
